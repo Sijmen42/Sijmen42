@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sijmen42
 - 👀 I’m interested in Deep learning 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on Deep learning
 - 📫 How to reach me sijmen@moleman.com
 
